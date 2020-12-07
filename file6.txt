@@ -1,0 +1,3 @@
+Chemistry:   50(l)   80(pr)   15(lab)
+Physics:   30(l)   -   60(pr)
+Sports:   -   45(pr)   -
